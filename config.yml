@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://meowcoffee.net/
 languageCode: en-us
-title: My New Hugo Site
+title: 喵豆商行
 
 paginate: 5
 theme: PaperMod
