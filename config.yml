@@ -60,12 +60,12 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
+    enabled: true # needs to be explicitly set
+    title: 喵豆商行
+    subtitle: "開張大吉"
+    imageUrl: "/products.png"
+    imageWidth: 474
+    imageHeight: 190
     imageTitle: my image
     buttons:
       - name: Posts
@@ -79,12 +79,9 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    - name: instagram
+      url: "https://www.instagram.com/"
+    
 
   analytics:
     google:
