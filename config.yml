@@ -81,8 +81,10 @@ params:
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/"
-    
-
+    - name: facebook
+      url: "https://www.facebook.com/"
+    - name: line
+      url: "https://line.me/"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
