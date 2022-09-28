@@ -18,8 +18,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: 喵豆商行
+  description: "喵豆商行官網"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -64,8 +64,8 @@ params:
     title: 喵豆商行
     subtitle: "開張大吉"
     imageUrl: "/products.png"
-    imageWidth: 474
-    imageHeight: 190
+    imageWidth: 499
+    imageHeight: 107
     imageTitle: my image
     buttons:
       - name: Posts
