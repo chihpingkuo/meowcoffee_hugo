@@ -19,7 +19,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 喵豆商行
-  description: "喵豆商行官網"
+  description: "自家烘焙咖啡"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -62,10 +62,10 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 喵豆商行
-    subtitle: "開張大吉"
-    imageUrl: "/products.png"
-    imageWidth: 499
-    imageHeight: 107
+    subtitle: "自家烘焙咖啡"
+    imageUrl: ""
+    imageWidth: 120
+    imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
