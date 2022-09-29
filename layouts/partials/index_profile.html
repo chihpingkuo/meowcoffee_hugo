@@ -30,6 +30,9 @@
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
+        
+        <h1>{{ .title | default site.Title | markdownify }}</h1>
+        <span>{{ .subtitle | markdownify }}</span>
         <table>
             <thead>
               <tr>
@@ -65,9 +68,8 @@
                 <td>260</td>
               </tr>
             </tbody>
-            </table>
-        <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <span>{{ .subtitle | markdownify }}</span>
+        </table>
+
         {{- partial "social_icons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}
