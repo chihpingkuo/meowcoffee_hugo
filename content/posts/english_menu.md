@@ -36,9 +36,20 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-| No |    Name (227g / pack)            | Process         |  Roast       | Price (NTD) |
-|:--:|:--------------------------------:|:---------------:|:------------:|:-----------:|
-| A1 | Ethiopia Guji G1                 | Natural         |  Medium      |  290        |
-| A2 | Ethiopia Sidama G1               | Washed          |  Medium      |  260        |
-| A3 | Costa Rica Canet Musician Mozart | Raisin Natural  | Medium Light |  330        |
-| A4 | Costa Rica Tarrazu               | Red Honey       |  Medium      |  260        |
+| No | Name                             | Process         |  Roast       | Price (NTD) |  Spec  |
+|:--:|:--------------------------------:|:---------------:|:------------:|:-----------:|:------:|
+| #1 | Ethiopia Guji G1                 | Natural         |  Medium      |  290        |  A / B |
+| #2 | Ethiopia Sidama G1               | Washed          |  Medium      |  260        |  A / B |
+| #3 | Costa Rica Canet Musician Mozart | Raisin Natural  | Medium Light |  330        |  A / B |
+| #4 | Costa Rica Tarrazu               | Red Honey       |  Medium      |  260        |  A / B |
+
+Spec:  
+A :  1 pack of 227g Ungrounded coffee, default option  
+B : 10 packs of 11g Drip Bag coffee
+
+you can specify your order like this:  
+#1A x 2, #3B x 3
+
+which means  
+2 pack of 227g ungrouned "Ethiopia Guji G1", and   
+30 packs of 11g drip bag "Costa Rica Canet Musician Mozart"
