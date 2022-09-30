@@ -68,10 +68,12 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+       - name: Posts
+         url: posts
+       - name: Tags
+         url: tags
+       - name: English Menu
+         url: posts/english_menu  
 
   # home-info mode
   homeInfoParams:
