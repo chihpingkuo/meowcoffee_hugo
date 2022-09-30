@@ -79,12 +79,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/"
-    - name: facebook
-      url: "https://www.facebook.com/"
+    # - name: instagram
+    #   url: "https://www.instagram.com/"
+    # - name: facebook
+    #   url: "https://www.facebook.com/"
     - name: line
-      url: "https://line.me/"
+      url: "https://line.me/R/ti/p/@358kmoxp"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -124,9 +124,13 @@ menu:
     #   url: /tags/
     #   weight: 20
     - identifier: myship711
-      name: 7-11賣貨便賣場
+      name: 7-11賣場
       url: https://myship.7-11.com.tw/general/detail/GM2203053416138
       weight: 30
+    - identifier: line
+      name: 加喵豆Line
+      url: https://line.me/R/ti/p/@358kmoxp
+      weight: 35
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
