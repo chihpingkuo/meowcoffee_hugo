@@ -36,7 +36,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-| No |    Name (1/2 pound)              | Process         |  Roast       | Price (NTD) |
+| No |    Name (227g / pack)            | Process         |  Roast       | Price (NTD) |
 |:--:|:--------------------------------:|:---------------:|:------------:|:-----------:|
 | A1 | Ethiopia Guji G1                 | Natural         |  Medium      |  290        |
 | A2 | Ethiopia Sidama G1               | Washed          |  Medium      |  260        |
