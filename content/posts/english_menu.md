@@ -39,9 +39,11 @@ editPost:
 | No | Name                             | Process         |  Roast       | Price (NTD) |  Spec  |
 |:--:|:--------------------------------:|:---------------:|:------------:|:-----------:|:------:|
 | #1 | Ethiopia Guji G1                 | Natural         |  Medium      |  290        |  A / B |
-| #2 | Ethiopia Sidama G1               | Washed          |  Medium      |  260        |  A / B |
-| #3 | Costa Rica Canet Musician Mozart | Raisin Natural  | Medium Light |  330        |  A / B |
-| #4 | Costa Rica Tarrazu               | Red Honey       |  Medium      |  260        |  A / B |
+| #2 | Ethiopia Sidama G1               | Washed          |  Medium      |  280        |  A / B |
+| #3 | Costa Rica Canet Musician Mozart | Raisin Natural  | Medium Light |  350        |  A / B |
+| #4 | Colombia Huila Supremo           | Washed          |  Medium      |  250        |  A / B |
+| #4 | Guatemala Antigua La Flor        | Washed          |  Medium      |  250        |  A / B |
+| #4 | Ethiopia Yirgacheffe G1 Idido    | Honey           |  Medium      |  290        |  A / B |
 
 Spec:  
 A :  1 pack of 227g Ungrounded coffee, default option  
