@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-8ER636F3HE
 
 minify:
   disableXML: true
@@ -62,18 +62,20 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: 喵豆商行
-    subtitle: "自家烘焙咖啡"
+    subtitle: "自家烘焙咖啡, 下單後約3~5日出貨"
     imageUrl: ""
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-       - name: Posts
-         url: posts
-       - name: Tags
-         url: tags
-       - name: English Menu
-         url: posts/english_menu  
+      #  - name: Posts
+      #    url: posts
+      #  - name: Tags
+      #    url: tags
+      #  - name: English Menu
+      #    url: posts/english_menu  
+      - name: 下單請按此
+        url: https://myship.7-11.com.tw/general/detail/GM2203053416138
 
   # home-info mode
   homeInfoParams:
